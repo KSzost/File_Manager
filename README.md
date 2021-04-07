@@ -1,0 +1,1 @@
+Simple file manager based on Total Commander, made as an assignment for programming class.
